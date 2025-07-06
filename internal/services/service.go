@@ -1,3 +1,8 @@
+// Copyright (c) 2025 @drclcomputers. All rights reserved.
+//
+// This work is licensed under the terms of the MIT license.
+// For a copy, see <https://opensource.org/licenses/MIT>.
+
 package services
 
 import (
@@ -60,7 +65,6 @@ func GetQuote() string {
 	return quote
 }
 
-// ContactZenquotesAPIWithClient allows injecting a custom HTTP client (for testing)
 func ContactZenquotesAPIWithClient(client *http.Client) string {
 	resp, err := client.Get(model.ZENQUOTES_URL)
 	if err != nil {

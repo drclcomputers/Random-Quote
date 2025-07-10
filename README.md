@@ -1,4 +1,4 @@
-# Random Quote Generator
+# Random Quote
 
 Welcome to **Random Quote Generator**! 🚀
 

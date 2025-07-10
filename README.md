@@ -1,6 +1,6 @@
 # Random Quote
 
-Welcome to **Random Quote Generator**! 🚀
+Welcome to **Random Quote**! 🚀
 
 This is a simple Go application that fetches and displays a random inspirational quote from either the [ZenQuotes API](https://zenquotes.io/) or the [Quotable API](https://api.quotable.io/).
 

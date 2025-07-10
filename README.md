@@ -48,7 +48,7 @@ Random Quote/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/drclcomputers/Random-Quote-Generator/
+   git clone https://github.com/drclcomputers/Random-Quote/
    cd random-quote
    ```
 
